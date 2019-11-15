@@ -1,6 +1,8 @@
 # nekro-new
 live another man's life
 
+basically [this](https://www.npmjs.com/package/nekro) but better
+
 ## Installation
 ```sh
 npm install nekro-new --save
